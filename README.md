@@ -8,7 +8,7 @@ Customizing Webpage
   For About Me section
     -> index.md (to modify About Me section)
 
-  All other sections
+  All other section
   _includes folder
     -> positions.md
     -> current-research.md
